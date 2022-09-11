@@ -57,10 +57,12 @@ Application for text signature of contents of the universe of react
 :heavy_check_mark: feat: Title dinâmico por página;\
 :heavy_check_mark: feat: Estilos globais do app;\
 :heavy_check_mark: feat: Componente: Header;\
-:heavy_check_mark: feat: Componente: SignInButton;
-:heavy_check_mark: feat: Página Home;
-:heavy_check_mark: feat: Componente: SubscribeButton;
-:heavy_check_mark: feat: feat: Consumindo API do Stripe (SSR);
+:heavy_check_mark: feat: Componente: SignInButton;\
+:heavy_check_mark: feat: Página Home;\
+:heavy_check_mark: feat: Componente: SubscribeButton;\
+:heavy_check_mark: feat: Consumindo API do Stripe (SSR);\
+:heavy_check_mark: feat: Adicionando informações no README;\
+:heavy_check_mark: refactor: Alterando informações no README;\
 
 ## :rocket: Technologies ##
 
