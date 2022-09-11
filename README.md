@@ -64,7 +64,8 @@ Application for text signature of contents of the universe of react
 :heavy_check_mark: feat: Adicionando informações no README;\
 :heavy_check_mark: refactor: Alterando informações no README;\
 :heavy_check_mark: feat: Static Site Generation (SSG);\
-:heavy_check_mark: feat: API routes no Next.js;
+:heavy_check_mark: feat: API routes no Next.js;\
+:heavy_check_mark: feat: Parametrização nas rotas;
 
 ## :rocket: Technologies ##
 
