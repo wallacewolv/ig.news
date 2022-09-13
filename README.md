@@ -70,7 +70,8 @@ Application for text signature of contents of the universe of react
 :heavy_check_mark: feat: Autenticação com Next Auth;\
 :heavy_check_mark: feat: Configurando FaunaDB;\
 :heavy_check_mark: feat: Salvando usuário no banco;\
-:heavy_check_mark: feat: Verificando usuário duplicado;
+:heavy_check_mark: feat: Verificando usuário duplicado;\
+:heavy_check_mark: feat: Gerando sessão de checkout;
 
 ## :rocket: Technologies ##
 
