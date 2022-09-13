@@ -67,7 +67,8 @@ Application for text signature of contents of the universe of react
 :heavy_check_mark: feat: API routes no Next.js;\
 :heavy_check_mark: feat: Parametrização nas rotas;\
 :heavy_check_mark: feat: Model de response do NextAuth/Github;\
-:heavy_check_mark: feat: Autenticação com Next Auth;
+:heavy_check_mark: feat: Autenticação com Next Auth;\
+:heavy_check_mark: feat: Configurando FaunaDB;
 
 ## :rocket: Technologies ##
 
