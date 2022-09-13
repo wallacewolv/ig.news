@@ -73,6 +73,7 @@ Application for text signature of contents of the universe of react
 :heavy_check_mark: feat: Verificando usuário duplicado;\
 :heavy_check_mark: feat: Gerando sessão de checkout;\
 :heavy_check_mark: feat: Redirecionando para o Stripe;
+:heavy_check_mark: feat: Evitando duplicação no Stripe;
 
 ## :rocket: Technologies ##
 
