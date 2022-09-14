@@ -75,7 +75,8 @@ Application for text signature of contents of the universe of react
 :heavy_check_mark: feat: Redirecionando para o Stripe;\
 :heavy_check_mark: feat: Evitando duplicação no Stripe;\
 :heavy_check_mark: feat: Webhooks do Stripe;\
-:heavy_check_mark: feat: Ouvindo eventos do Stripe;
+:heavy_check_mark: feat: Ouvindo eventos do Stripe;\
+:heavy_check_mark: feat: Salvando dados do evento;
 
 ## :rocket: Technologies ##
 
