@@ -17,7 +17,7 @@ export function SubscribeButton({ priceId }: SubscribeButtonProps) {
     }
 
     try {
-      const response = await api.post("/auth/subscribe");
+      const response = await api.post("/subscribe");
 
       const { sessionId } = response.data;
 
