@@ -86,7 +86,8 @@ Application for text signature of contents of the universe of react
 :heavy_check_mark: feat: Página: Post;\
 :heavy_check_mark: feat: Validando assinatura ativa;\
 :heavy_check_mark: feat: Página: Preview do post;\
-:heavy_check_mark: feat: Atualizando Readme;
+:heavy_check_mark: feat: Atualizando Readme;\
+:heavy_check_mark: feat: feat: Gerando previews estáticos;
 
 ## :rocket: Technologies ##
 
