@@ -77,7 +77,16 @@ Application for text signature of contents of the universe of react
 :heavy_check_mark: feat: Webhooks do Stripe;\
 :heavy_check_mark: feat: Ouvindo eventos do Stripe;\
 :heavy_check_mark: feat: Salvando dados do evento;\
-:heavy_check_mark: feat: Ouvindo mais eventos;
+:heavy_check_mark: feat: Ouvindo mais eventos;\
+:heavy_check_mark: feat: Configurando Prismic CMS;\
+:heavy_check_mark: feat: Consuminado API do Prismic;\
+:heavy_check_mark: feat: Listando posts em tela;\
+:heavy_check_mark: feat: Navegação no menu;\
+:heavy_check_mark: feat: Componente: ActiveLink;\
+:heavy_check_mark: feat: Página: Post;\
+:heavy_check_mark: feat: Validando assinatura ativa;\
+:heavy_check_mark: feat: Página: Preview do post;\
+:heavy_check_mark: feat: Atualizando Readme;
 
 ## :rocket: Technologies ##
 
