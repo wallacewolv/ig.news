@@ -10,6 +10,7 @@
     "slicemachine": "start-slicemachine"
   },
   "dependencies": {
+    "@prismicio/client": "^4.0.0",
     "@stripe/stripe-js": "^1.36.0",
     "axios": "^0.27.2",
     "faunadb": "^4.6.0",
